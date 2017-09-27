@@ -4,4 +4,4 @@ A repo containing two *Mathematica* notebooks for applying REU theory to the All
 
 1. `original.nb` attempts to model the Allais problem within REU theory, as described in our paper, ["Risk Writ Large"](http://dx.doi.org/10.1007/s11098-017-0916-3).
 
-2. `skewed.nb` analyzes the variant of our original model introduced in [Buchak's reply](http://dx.doi.org/10.1007/s11098-017-0907-4), and critiqued in our [followup commentary](#).
+2. `skewed.nb` analyzes the variant of our original model introduced in [Buchak's reply](http://dx.doi.org/10.1007/s11098-017-0907-4), and critiqued in our [followup commentary](https://choiceinference.wordpress.com/2017/09/26/reu-redeux-allais-all-over-again/).
